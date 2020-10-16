@@ -1,0 +1,7 @@
+amazon:
+  region: eu-west-1
+  end-point:
+    url:  https://dynamodb.eu-west-1.amazonaws.com
+
+server:
+  port: 5000
